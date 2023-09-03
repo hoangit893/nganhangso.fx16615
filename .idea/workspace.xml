@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e0ffa45-29cf-451e-93e7-05ed7e240100" name="Changes" comment="OK">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NganHangSo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vn/nganhangso/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vn/nganhangso/Province.java" afterDir="false" />
-    </list>
+    <list default="true" id="0e0ffa45-29cf-451e-93e7-05ed7e240100" name="Changes" comment="OK" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -79,8 +72,17 @@
       <option name="presentableId" value="Default" />
       <updated>1693667131687</updated>
       <workItem from="1693667132690" duration="3873000" />
-      <workItem from="1693747421528" duration="11494000" />
+      <workItem from="1693747421528" duration="11826000" />
     </task>
+    <task id="LOCAL-00001" summary="OK">
+      <option name="closed" value="true" />
+      <created>1693766429798</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693766429798</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
