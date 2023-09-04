@@ -182,8 +182,6 @@ public class Main {
             //Yeu cau nguoi dung nhap ma xac nhan
             System.out.println("Nhap ma xac nhan : " + tempRnd);
             String userConfirm;
-
-            System.out.println();
             do {
                 userConfirm = sc.next();
             } while (!tempRnd.equals(userConfirm));
